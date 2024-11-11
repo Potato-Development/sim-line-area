@@ -2,8 +2,7 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+Supported verions are as follows:
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -13,8 +12,4 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+Report vulnerabilities by opening an [issue](https://github.com/Potato-Development/linear-line-area/issues). It will be reviewed, and a fix will be made in the latest release.
