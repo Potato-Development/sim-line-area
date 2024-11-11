@@ -36,4 +36,4 @@ If none of the binaries support your architecture, the binaries don't work, or y
 /path/to/linear-line-area/src/main.cpp
 ```
 
-It should compile with any toolchain without warnings. If you want to use my custom `Makefile`, you can find it in the project folder `/path/to/linear-line-area/Makefile`. Targets `all`, `clean`, and then individual targets for your architecture should be available.
+It should compile with any toolchain without warnings. If you want to use my custom `Makefile`, you can find it in the project folder `/path/to/linear-line-area/Makefile`. Targets `all`, `clean`, and then individual targets for your architecture should be available. You may have to create the `target` folder yourself, please read the code carefully.
