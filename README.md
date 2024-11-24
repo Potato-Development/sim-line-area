@@ -1,5 +1,5 @@
-# linear-line-area
-Converging area under a generic linear function between an upper and lower bound.
+# sim-line-area
+Converging area under a generic function between an upper and lower bound.
 
 ![image](https://github.com/user-attachments/assets/935c9a7b-50dc-4e34-804a-e97d987820fb)
 
