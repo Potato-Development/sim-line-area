@@ -4,7 +4,7 @@ Converging area under a generic function between an upper and lower bound.
 ![image](https://github.com/user-attachments/assets/935c9a7b-50dc-4e34-804a-e97d987820fb)
 
 ## Introduction
-The program finds the **_area_** under (or over) a generic function, $f(x)$ and $a, b$ as the upper and lower bounds to find $S$. It uses $b-a$ $n$ slices; increasing $n$ will increase the accuracy of $s$ as it converges to the real area. This leaves $n$ rectangles which **_overestimate_** $S$, each
+The program finds the **_area_** under (or over) a generic function, $f(x)$ and $a, b$ as the upper and lower bounds to find $S$. It uses $n$ slices of length $b-a$; increasing $n$ will increase the accuracy of $s$ as it converges to the real area. This leaves $n$ rectangles which **_overestimate_** $S$, each
 
 $$f(a + \frac{b}{n} k)$$ 
 
